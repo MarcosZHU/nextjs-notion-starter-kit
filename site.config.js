@@ -19,7 +19,7 @@ module.exports = {
   // social usernames (optional)
   wechat: 'syzkc000106',
   github: 'MarcosZHU',
-  behance: 'Kecheng ZHU',
+  behance: 'zhukecheng',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
